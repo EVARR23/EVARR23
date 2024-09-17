@@ -33,7 +33,7 @@ Após se dedicar a evouluir a suas técnicas de evolução, em Dezembro de 2023,
 
 <br>
 
-###IDE
+### IDE
 ---
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
@@ -41,7 +41,7 @@ Após se dedicar a evouluir a suas técnicas de evolução, em Dezembro de 2023,
 
 <br>
 
-###Linguagens de Programção
+### Linguagens de Programção
 
 ---
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
