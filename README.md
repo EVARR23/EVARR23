@@ -47,3 +47,9 @@ Após se dedicar a evouluir a suas técnicas de evolução, em Dezembro de 2023,
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 [![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=white)]()
 
+<br>
+
+## Atividades
+![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+
+
