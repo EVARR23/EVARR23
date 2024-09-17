@@ -18,4 +18,4 @@ Após se dedicar a evouluir a suas técnicas de evolução, em Dezembro de 2023,
  ### UX/UI
 ---
 
-[![Canva] (https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]()
+[![Canva] (https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]() 
