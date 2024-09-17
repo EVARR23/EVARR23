@@ -22,3 +22,9 @@ Após se dedicar a evouluir a suas técnicas de evolução, em Dezembro de 2023,
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
 
 <br>
+
+### Frameworks
+---
+
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)]()
