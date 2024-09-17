@@ -41,7 +41,8 @@ Após se dedicar a evouluir a suas técnicas de evolução, em Dezembro de 2023,
 
 <br>
 
-###Linguagens de Progração
+###Linguagens de Programção
+
 ---
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 [![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=white)]()
