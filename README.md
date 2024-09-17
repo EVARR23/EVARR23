@@ -50,6 +50,6 @@ Após se dedicar a evouluir a suas técnicas de evolução, em Dezembro de 2023,
 <br>
 
 ## Atividades
-![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=EVA REBOUCAS RODRIGUES&show_icons=true&bg_color=00000000)
+![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=EVAREBOUCASRODRIGUES&show_icons=true&bg_color=00000000)
 
 
