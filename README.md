@@ -5,7 +5,7 @@
 <br>
 
 
-Após se dedicar a evouluir a suas técnicas de evolução, em Dezembro de 2023, concluir o ,curso Analise Desenvolvimento de Software, pela faculdade ETEP. Em Janeiro  de 2024,decidiu segui com a carrereira Qualidade de Software.
+Após se dedicar a evouluir a suas técnicas de evolução, em Dezembro de 2023, concluir o ,curso Analise Desenvolvimento de Software, pela faculdade ETEP. Em Janeiro  de 2024,decidir segui com a carrereira Qualidade de Software.
 
 
 
