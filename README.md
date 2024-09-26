@@ -1,6 +1,6 @@
 ## Olá eu sou a Eva :rofl:
 
-### Formada em  Biomedicina e Análise e Desenvolvimento de Sistemas, possui 1  ano de experiência na área de TI com teste de Software.
+### Formada em  Biomedicina e Análise e Desenvolvimento de Sistemas, possui 3 ano de experiência na área de TI com teste de Software.
 
 <br>
 
