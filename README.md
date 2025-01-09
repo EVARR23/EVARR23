@@ -5,7 +5,7 @@
 <br>
 
 
-Após se dedicar a evouluir a suas técnicas de evolução, em Dezembro de 2023, concluir o ,curso Analise Desenvolvimento de Software, pela faculdade ETEP. Em Janeiro  de 2024,decidir segui com a carrereira Qualidade de Software.
+Após se dedicar a evouluir a suas técnicas de evolução, em Dezembro de 2023, concluir o ,curso Analise Desenvolvimento de Software, pela faculdade ETEP. Em Janeiro  de 2024,decidir segui com a carrereira Analista de Testes, QA. Com o decorre do tempo fui perfeicoando na área fazendo cursos, um deles foi na plataforma Qualiters clup da professora Pricila de Araujo Caimi. E em Outubro de 2024 decidi em entra em Pós-graduação, pela faculdade Vinci, cursando o curso de MBA, QA e Teste de Software, tendo previsto a conclusão em Dezembro de 2025.
 
 
 
