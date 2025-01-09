@@ -1,6 +1,6 @@
 ## Olá eu sou a Eva :rofl:
 
-### Formada em  Análise de Desenvolvimento de Sistemas, possui 3 ano de experiência na área de TI com teste de Software.
+### Formada em  Análise de Desenvolvimento de Sistemas, possui 1 ano e 9 més  ano de experiência na área de TI, onze més  como analista de teste.
 
 <br>
 
