@@ -1,13 +1,12 @@
 ## Olá eu sou a Eva :rofl:
 
-### Formada em  Análise de Desenvolvimento de Sistemas, possui 1 ano e 9 més  ano de experiência na área de TI, 11 més  como analista de teste.
+### Cursando pós graduação em QA e Teste de Software. Graduada em Análise e Desenvolvimento de Sistemas.
 
 <br>
 
 
-Após se dedicar a evouluir a suas técnicas de evolução, em Dezembro de 2023, concluir o curso Analise Desenvolvimento de Sistema, pela faculdade ETEP. Em Janeiro  de 2024,decidir segui com a carrereira Analista de Testes, QA. Com o decorre do tempo fui perfeicoando na área fazendo cursos, um deles foi na plataforma Qualiters clup da professora Pricila de Araujo Caimi. E em Outubro de 2024 decidi em entra em Pós-graduação, pela faculdade Vinci, cursando o curso de MBA, QA e Teste de Software, tendo previsto a conclusão em Dezembro de 2025.
-
-
+- Experiência na execução de testes de API REST, aplicações web e mobile. Utilização do JIRA para a gestão do projeto conforme a metodologia SCRUM. Documentação das evidências de testes e realização de abertura de bugs. Geração de massa de dados utilizando SQL.
+- Experiência básica na implementação de API REST utilizando Java, Quarkus, Spring Boot, JPA e PostgreSQL, bem como aplicativos utilizando Flutter e desenvolvimento web com react-native e html/css. Utilização de ferramentas como IntelliJ, Visual Studio Code, GitHub e prototipação utilizando Figma e Canva.
 
 
 
