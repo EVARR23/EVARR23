@@ -5,9 +5,9 @@
 <br>
 
 
-Experiência na implementação de API REST utilizando Java, Quarkus, Spring Boot, JPA e PostgreSQL, bem como aplicativos utilizando Flutter e desenvolvimento web com Python, React-Native e html/css. Utilização de ferramentas como IntelliJ, Visual Studio Code, GitHub e prototipação utilizando Figma e Canva.
-Experiência na execução de testes de API REST, aplicações web e mobile. Utilização do JIRA para a gestão do projeto conforme a metodologia SCRUM. Documentação das evidências de testes e realização de abertura de bugs. Geração de massa de dados utilizando SQL.
-Graduada em Análise e Desenvolvimento de Sistemas. Cursando pós-graduação em QA e Teste de Software e também outros bootcamps e cursos principalmente na área de programação e de testes de softwares automatizados
+- Experiência na implementação de API REST utilizando Java, Quarkus, Spring Boot, JPA e PostgreSQL, bem como aplicativos utilizando Flutter e desenvolvimento web com Python, React-Native e html/css. Utilização de ferramentas como IntelliJ, Visual Studio Code, GitHub e prototipação utilizando Figma e Canva.
+- Experiência na execução de testes de API REST, aplicações web e mobile. Utilização do JIRA para a gestão do projeto conforme a metodologia SCRUM. Documentação das evidências de testes e realização de abertura de bugs. Geração de massa de dados utilizando SQL.
+- Graduada em Análise e Desenvolvimento de Sistemas. Cursando pós-graduação em QA e Teste de Software e também outros bootcamps e cursos principalmente na área de programação e de testes de softwares automatizados
 
 
 
