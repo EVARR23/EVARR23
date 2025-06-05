@@ -1,4 +1,6 @@
-## Olá eu sou a Eva :rofl:
+## Olá eu sou a Eva :rofl: <p align="center">
+  <b> Olá eu sou a Eva :rofl: </b>
+</p>
 
 ### Cursando pós graduação em QA e Teste de Software. Graduada em Análise e Desenvolvimento de Sistemas.
 
