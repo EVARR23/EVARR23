@@ -1,4 +1,4 @@
-## Olá eu sou a Eva :rofl: <center>## Meu Projeto</center>
+ <center>## Meu Projeto</center>
 
 </p>
 
