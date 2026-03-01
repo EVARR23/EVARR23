@@ -68,5 +68,5 @@
 
 ## 📫 Contato
 
-📌 LinkedIn: (coloque seu link aqui)  
-📧 Email: (opcional)
+📌 LinkedIn:   https://www.linkedin.com/in/evareboucasrodrigues/
+📧 Email: evareboucasrodrigues@gmail.com
