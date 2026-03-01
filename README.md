@@ -28,13 +28,14 @@
 ### ☕ Java
 - Quarkus  
 - Spring Boot  
-- JPA  
+- JPA
+- Spring
 - PostgreSQL  
 
 ### 🐍 Python
 - Django  
 - Desenvolvimento de APIs  
-- Scripts para automação  
+ 
 
 ### 🚀 Outras Tecnologias
 - Flutter  
@@ -51,7 +52,6 @@
 - IntelliJ  
 - VS Code  
 - GitHub  
-- Draw.io  
 - Figma  
 
 ---
