@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  - Full stack developer with knowledge in Java (Spring Boot) and Ruby on Rails for backend development, as well as experience with HTML, CSS, JavaScript, and Tailwind CSS on the frontend. I’m currently deepening my studies in Ruby on Rails and web development. I’m looking for opportunities to apply and enhance my skills through challenging projects, always aiming for growth and continuous learning.
+  - Graduada em Análise e Desenvolvimento de Sistemas e com pós-graduação em QA e Teste de Software, possuo mais de 4 anos de experiência na área de desenvolvimento de software.
 </p>
 
 <p align="left">
