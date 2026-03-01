@@ -25,6 +25,6 @@
 </p>
 
 <p align="left">
-  <a href="//www.linkedin.com/in/liviacalderan/" title="LinkedIn">
+  <a href="//www.linkedin.com/in/evareboucasrodrigues/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/evareboucasrodrigues//" alt="LinkedIn"/></a>
 </p>
