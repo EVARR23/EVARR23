@@ -19,6 +19,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-idea&logoColor=000000)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-1E90FF?style=flat&logo=playwright&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/-Robot_Framework-000000?style=flat&logo=robotframework&logoColor=white)
+
 
 <p align="left">
   💌 Let's get in touch.
