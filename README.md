@@ -15,6 +15,8 @@ Experiência no desenvolvimento, manutenção e testes de API REST utilizando a 
 
 Conhecimentos em Flutter, Dart, Android, Node.js, React.js, React Native, etc.
 
+## Linguagens e Tecnologias
+
 
 
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]()
