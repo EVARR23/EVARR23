@@ -51,9 +51,9 @@ Conhecimentos em Flutter, Dart, Android, Node.js, React.js, React Native, etc.
 ### Linguagens de Programção
 
 ---
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
-[![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=white)]()
 
+[![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)]()
 <br>
 
 ## Atividades
