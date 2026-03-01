@@ -23,8 +23,10 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-1E90FF?style=flat&logo=playwright&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-000000?style=flat&logo=robotframework&logoColor=white)
-
-
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 <p align="left">
   💌 Let's get in touch.
 
