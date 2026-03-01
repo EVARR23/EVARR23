@@ -5,5 +5,6 @@
 💼 +4 anos de experiência em desenvolvimento de software  
 
 ---
+![Cypress](https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white)
 
 
