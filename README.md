@@ -4,7 +4,9 @@
 🎓 Pós-graduada em QA e Teste de Software  
 💼 +4 anos de experiência em desenvolvimento de software  
 
+
 ---
+##Tecnologia e Linguagens
 ![Cypress](https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
