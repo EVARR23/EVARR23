@@ -4,11 +4,6 @@
 🎓 Pós-graduada em QA e Teste de Software  
 💼 +4 anos de experiência em desenvolvimento de software  
 
-
-
 ---
 
-## 📫 Contato
-
-📌 LinkedIn:   https://www.linkedin.com/in/evareboucasrodrigues/
 
