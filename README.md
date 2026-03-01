@@ -2,8 +2,6 @@
 
 </p>
 
-### Cursando pós graduação em QA e Teste de Software. Graduada em Análise e Desenvolvimento de Sistemas.
-
 <br>
 
 
