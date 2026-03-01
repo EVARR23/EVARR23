@@ -1,22 +1,72 @@
-# 👩‍💻 Olá, eu sou a Eva Reboucas!
+# 👩‍💻 Olá, eu sou a Eva Rebouças!
 
-</p>
+🎓 Graduada em Análise e Desenvolvimento de Sistemas  
+🎓 Pós-graduada em QA e Teste de Software  
+💼 +4 anos de experiência em desenvolvimento de software  
 
-<br>
+---
 
+## 🧪 Experiência em QA & Testes
 
-Graduada em Análise e Desenvolvimento de Sistemas e com pós-graduação em QA e Teste de Software, possuo mais de 4 anos de experiência na área de desenvolvimento de software.
+- Planejamento e execução de testes manuais e automatizados  
+- Automação de testes de API REST e aplicações web  
+- Geração dinâmica de massa de dados via scripts e SQL  
+- Documentação de evidências de testes  
+- Abertura e acompanhamento de bugs  
+- Gestão de demandas utilizando **Azure DevOps** com metodologia **SCRUM**
 
-Experiência em atividades de planejamento e execução de testes manuais e automatizados. Automação de testes de API REST e aplicações web, utilizando diversas ferramentas de automação (Cypress, Selenium, Playwright, Robot, etc). Geração dinâmica de massa de dados via scripts e também utilizando SQL.
+### 🔧 Ferramentas de Automação
+- Cypress  
+- Selenium  
+- Playwright  
+- Robot Framework  
 
-Utilização do Azure DevOps para a gestão do projeto conforme a metodologia SCRUM. Documentação das evidências de testes e realização de abertura de bugs.
+---
 
-Experiência no desenvolvimento, manutenção e testes de API REST utilizando a plataforma Java com Quarkus, Spring Boot, JPA e PostgreSQL e também desenvolvimento utilizando Python,  Django e diversos frameworks. Utilização do IntelliJ, VS Code, GitHub, Draw.io, Figma, etc 
+## 💻 Experiência em Desenvolvimento
 
-Conhecimentos em Flutter, Dart, Android, Node.js, React.js, React Native, etc.
+### ☕ Java
+- Quarkus  
+- Spring Boot  
+- JPA  
+- PostgreSQL  
 
+### 🐍 Python
+- Django  
+- Desenvolvimento de APIs  
+- Scripts para automação  
 
+### 🚀 Outras Tecnologias
+- Flutter  
+- Dart  
+- Android  
+- Node.js  
+- React.js  
+- React Native  
 
+---
 
+## 🛠️ Ferramentas
 
+- IntelliJ  
+- VS Code  
+- GitHub  
+- Draw.io  
+- Figma  
 
+---
+
+## 📊 Estatísticas GitHub
+
+![Eva GitHub stats](https://github-readme-stats.vercel.app/api?username=EVARR23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EVARR23&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=EVARR23&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+📌 LinkedIn: (coloque seu link aqui)  
+📧 Email: (opcional)
