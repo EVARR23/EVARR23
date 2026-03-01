@@ -5,7 +5,7 @@
 💼 +4 anos de experiência em desenvolvimento de software  
 
 
-## 📊 Estatísticas GitHub
+## 📊 Estatísticas 
 
 ![Eva GitHub stats](https://github-readme-stats.vercel.app/api?username=EVARR23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
