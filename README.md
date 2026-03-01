@@ -27,30 +27,6 @@ Conhecimentos em Flutter, Dart, Android, Node.js, React.js, React Native, etc.
 
 <br>
 
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
-[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)]()
-[![Quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus)]()
 
-
-<br>
-
-### IDE
----
-
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
-[![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)]()
-
-<br>
-
-### Linguagens de Programção
-
----
-
-[![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)]()
-<br>
-
-## Atividades
-![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=EVARR23&show_icons=true&theme=radical)
 
 
