@@ -18,20 +18,14 @@ Experiência no desenvolvimento, manutenção e testes de API REST utilizando a 
 Conhecimentos em Flutter, Dart, Android, Node.js, React.js, React Native, etc.
 
 
-## Skills
 
-<br>
 
  ### UX/UI
----
 
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]()
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
 
 <br>
-
-### Frameworks
----
 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)]()
