@@ -18,6 +18,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-idea&logoColor=000000)
 
 <p align="left">
   💌 Let's get in touch.
